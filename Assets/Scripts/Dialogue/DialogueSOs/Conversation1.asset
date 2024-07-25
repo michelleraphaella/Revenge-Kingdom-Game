@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6d969c428af4940a7abdfa7f5852b4, type: 3}
+  m_Name: Conversation1
+  m_EditorClassIdentifier: 
+  actors: 000000000100000002000000
+  randomActorName: 
+  randomActorPortrait: {fileID: 0}
+  dialogue:
+  - Hey.
+  - What's Up?
+  optionText:
+  - Ask For Beer
+  - Nevermind
+  option0: {fileID: 11400000, guid: 1bc05315f3e35e34a88966e916d0591c, type: 2}
+  option1: {fileID: 11400000, guid: 178f670ed960f6c42b0be08bedf53122, type: 2}

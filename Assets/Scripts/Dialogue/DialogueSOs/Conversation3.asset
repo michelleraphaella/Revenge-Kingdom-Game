@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6d969c428af4940a7abdfa7f5852b4, type: 3}
+  m_Name: Conversation3
+  m_EditorClassIdentifier: 
+  actors: 000000000400000000000000040000000000000004000000000000000400000000000000
+  randomActorName: 
+  randomActorPortrait: {fileID: 0}
+  dialogue:
+  - King Arthur.
+  - Hugo, what have you been up to? Have you been going around my castle killing
+    my men?
+  - I did not. They subject themselves to death from the moment they pledge themselves
+    to a tyrant like you.
+  - You ungrateful child! How dare you act like this after all I have done for you!
+  - 'You have done nothing but brought sorrow to me and my family. '
+  - What family? You don't have one!
+  - And that is because of you! You took my mother forcefully and killed my father!
+  - What..? I didn't know he had a child. I will be happy to give you the same fate
+    as your father then.
+  - I will kill you myself.
+  optionText: []
+  option0: {fileID: 0}
+  option1: {fileID: 0}
+  option2: {fileID: 0}

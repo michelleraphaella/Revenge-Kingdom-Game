@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6d969c428af4940a7abdfa7f5852b4, type: 3}
+  m_Name: Option0
+  m_EditorClassIdentifier: 
+  actors: 000000000100000000000000010000000000000001000000000000000100000002000000
+  randomActorName: 
+  randomActorPortrait: {fileID: 0}
+  dialogue:
+  - Give me one beer please.
+  - Comin' right up! By the way, have you heard about the big competition this weekend?
+  - What competition?
+  - A hunting competition held by the king!
+  - Will there be any reward for the participants?
+  - Yes! You will be given an opportunity to work as a staff in the kingdom. Whether
+    as a knight, a wizard, or a soldier. You can choose!
+  - Oh wow, really? That's kinda exciting.
+  - Hey, you definitely should participate! You are very good at hunting, just like
+    your father.
+  optionText:
+  - I don't think so.
+  - Of course I will!
+  option0: {fileID: 11400000, guid: d7ea3b9e97950db4391273a096565bc1, type: 2}
+  option1: {fileID: 11400000, guid: b9af4c21ef09e7b4b965903cde65b74b, type: 2}

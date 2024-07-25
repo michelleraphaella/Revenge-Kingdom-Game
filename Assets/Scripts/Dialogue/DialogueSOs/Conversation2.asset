@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6d969c428af4940a7abdfa7f5852b4, type: 3}
+  m_Name: Conversation2
+  m_EditorClassIdentifier: 
+  actors: 030000000000000004000000000000000400000002000000
+  randomActorName: 
+  randomActorPortrait: {fileID: 0}
+  dialogue:
+  - Hail to King Arthur! May I present to you, the winner of the hunting competition,
+    Hugo!
+  - It is an honor, my lord.
+  - Congratulations to you, child!
+  - Thank you, my lord.
+  - As your reward, I hereby give you the freedom to choose your own path. What would
+    you like to be?
+  optionText:
+  - A knight
+  - A wizard
+  - A minister
+  option0: {fileID: 11400000, guid: 4deb4f3819b0c154b9c4d97deea8a666, type: 2}
+  option1: {fileID: 11400000, guid: ba96e40e21f723b4c90b1a30e62c7d12, type: 2}
+  option2: {fileID: 11400000, guid: 1f66b84d9e9741b44b14ba0e0ff4ff49, type: 2}

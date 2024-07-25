@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6d969c428af4940a7abdfa7f5852b4, type: 3}
+  m_Name: Option6
+  m_EditorClassIdentifier: 
+  actors: 00000000040000000700000000000000
+  randomActorName: 
+  randomActorPortrait: {fileID: 0}
+  dialogue:
+  - I would like to be a wizard, my lord. It has been my dream to be as good with
+    spells and magic as The Great Gawain!
+  - Then you shall be a wizard! Gawain will be training you personally.
+  - Nice to meet you, Hugo. I am looking forward to be working with you.
+  - Thank you in advance for the guidance, Lord Gawain.
+  optionText: []
+  option0: {fileID: 0}
+  option1: {fileID: 0}
+  option2: {fileID: 0}
